@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h1 align="center">Hi 👋, I'm Barshan Banerjee</h1>
 <h3 align="center">A passionate full stack developer and aspiring software engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barshanbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="barshanbanerjee" /> </p>
