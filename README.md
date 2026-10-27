@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/barshanbanerjee" target="blank"><img src="https://img.shields.io/twitter/follow/barshanbanerjee?logo=twitter&style=for-the-badge" alt="barshanbanerjee" /></a> </p>
 
-- 🔭 I’m currently working on [Blackletters](https://blackletters.net)
+- 🔭 I’m currently working on [Nexval.ai](https://nexval.ai)
 
 - 🌱 I’m currently learning **Angular JS**
 
